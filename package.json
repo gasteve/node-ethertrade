@@ -1,0 +1,18 @@
+{
+  "name": "ethertrade",
+  "version": "0.0.0",
+  "description": "Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gasteve/node-ethertrade.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gasteve/node-ethertrade/issues"
+  }
+}
